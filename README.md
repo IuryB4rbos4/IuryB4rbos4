@@ -41,3 +41,5 @@
   <img align="center" alt="Elixir" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"/>
   <img align="center" alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 </div><br/>
+
+![Snake animation](https://github.com/Askizin/Askizin/blob/output/github-contribution-grid-snake.svg)
