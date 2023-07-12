@@ -12,7 +12,7 @@ public class Iury extends SoftwareEngineer {
 }
 
 public class SoftwareEngineer {
-    private String[] platforms = { "Java SE/EE/ME", "NodeJs" };
+    private String[] platformers = { "Java SE/EE/ME", "NodeJs" };
     private String[] languages = { "Java", "Python", "Js/Ts" };
     private String[] frameworks = { "Spring", "React", "NextJs" };
     private String[] dataBases = { "PostgresSQL", "MySQL", "Oracle" };
