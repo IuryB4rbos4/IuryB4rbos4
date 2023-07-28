@@ -34,6 +34,6 @@ de EDA e LEDA na Universidade Federal de Campina Grande.
 </div>
 <div align="center"
   <a href="https://github.com/Askizin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Askizin&layout=compact&langs_count=7&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IuryB4rbos4&layout=compact&langs_count=7&theme=dracula" />
 </div>
 
