@@ -14,7 +14,7 @@ public class Iury extends SoftwareEngineer {
 public class SoftwareEngineer {
     private String[] platformers = { "Java SE/EE/ME", "NodeJs" };
     private String[] languages = { "Java", "Python", "Js/Ts" };
-    private String[] frameworks = { "Spring", "React", "NextJs" };
+    private String[] frameworks = { "Spring Boot", "React", "NextJs" };
     private String[] dataBases = { "PostgresSQL", "MySQL", "Oracle" };
     ...
 }
@@ -23,7 +23,7 @@ public class SoftwareEngineer {
 - [Ignews](https://github.com/Askizin/Ignews): Ig.News é um blog de notícias onde os usuários podem ter acesso as notícias por assinatura.
 - [Estrutura de Dados](https://github.com/Askizin/EDA-e-LEDA): Codificação em Java de algumas estruturas de dados vista na disciplina
 de EDA e LEDA na Universidade Federal de Campina Grande.
-- [DevFinance](https://github.com/Askizin/DevFinances-): DevFinance foi meu primeiro contato com o dev. web, é uma aplicação de controle financeiro.
+- [DevFinance](https://github.com/Askizin/DevFinances-): DevFinance foi meu primeiro contato com o dev. web, codificado com javascript e html, o DevFinance é uma aplicação de controle financeiro.
 ## Contato:
 <div align="center" >
   
