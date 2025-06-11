@@ -20,6 +20,7 @@ public class SoftwareEngineer {
 }
 ```
 ## Projetos Destacados:
+- [Compselect](https://nepe-compselect.vercel.app): Compselect é um website institucional para a editora Compselects, seu objetivo é  conectar autores e leitores, e facilitar a compra e o acesso a livros, artigos e outros recursos relacionados à área de computação.
 - [Ignews](https://github.com/Askizin/Ignews): Ig.News é um blog de notícias onde os usuários podem ter acesso as notícias por assinatura.
 - [Estrutura de Dados](https://github.com/Askizin/EDA-e-LEDA): Codificação em Java de algumas estruturas de dados vista na disciplina
 de EDA e LEDA na Universidade Federal de Campina Grande.
