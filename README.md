@@ -33,8 +33,11 @@ de EDA e LEDA na Universidade Federal de Campina Grande.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/b_iury/)
 
 </div>
-<div align="center"
-  <a href="https://github.com/Askizin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IuryB4rbos4&layout=compact&langs_count=7&theme=dracula" />
+
+<div align="center">
+  <a href="https://github.com/IuryB4rbos4">
+    <img height="180em"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=IuryB4rbos4&layout=compact&langs_count=7&theme=dracula" />
+  </a>
 </div>
 
